@@ -1,0 +1,29 @@
+body {
+  width: 700px;
+  margin: auto;
+  background: rgba(37, 70, 89, 0.7);
+  }
+.headerblock {
+  background: #c9c9c9;
+  height: 100%;
+  border-radius: 5px;
+  text-align: center;
+  padding: 10px;
+}
+.sidebar {
+  text-align: center;
+  float: right;
+  background: #c9c9c9;
+  padding: 10px;
+  width: 120px;
+  border: 3px solid #fff;
+}
+article {
+  text-align: justify;
+  margin-right: 150px;
+  background: #f0f0f0;
+  border: 3px solid #de1b1b;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 3px;
+}
